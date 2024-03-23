@@ -7,9 +7,9 @@ This repository contains a [yazi](https://github.com/sxyazi/yazi) [theme](https:
 ## Install
 
 ```sh
-git clone https://github.com/Mellbourn/ls-colors-yazi-theme
+git clone https://github.com/Mellbourn/ls-colors.yazi
 mkdir -p ~/.config/yazi
-cd ls-colors-yazi-theme
+cd ls-colors.yazi
 mv theme.toml ~/.config/yazi/
 ```
 
