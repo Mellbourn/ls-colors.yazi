@@ -8,7 +8,7 @@ This repository contains a [yazi](https://github.com/sxyazi/yazi) [theme](https:
 
 ```sh
 git clone https://github.com/Mellbourn/ls-colors-yazi-theme
-mkdir ~/.config/yazi
+mkdir -p ~/.config/yazi
 cd ls-colors-yazi-theme
 mv theme.toml ~/.config/yazi/
 ```
