@@ -13,5 +13,9 @@ cd ls-colors.yazi
 mv theme.toml ~/.config/yazi/
 ```
 
-Screenshot in [tmux](https://github.com/tmux/tmux/wiki) showing [yazi](https://github.com/sxyazi/yazi) in the top pane and an [lsd](https://github.com/lsd-rs/lsd) list below. Notice that the colors match.
+Alternatively, you can simply insert the contents of `theme.toml` into your `~/.config/yazi/theme.toml` file, replacing or extending the `[filetype±]` section.
+
+## Screenshot
+
+Screenshot (in [tmux](https://github.com/tmux/tmux/wiki)) showing [yazi](https://github.com/sxyazi/yazi) in the top pane and an [lsd](https://github.com/lsd-rs/lsd) list below. Notice that the colors of the files match.
 ![Terminal screenshot](./Screenshot.png)
